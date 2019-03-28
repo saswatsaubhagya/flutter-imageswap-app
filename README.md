@@ -1,6 +1,6 @@
 # imageswap
 
-A new Flutter project.
+It`s a demo Flutter app which swap two images after button pressed.
 
 ## Getting Started
 
